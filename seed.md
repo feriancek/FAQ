@@ -199,6 +199,9 @@ That said, the thief would have to know what the words are and either spend time
 If you are going to do this be sure to use a 24 word mnemonic seed (not a 12 word mnemonic seed). 
 
 It is better to use [Shamir's secret sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing) to split the seed into 2 secrets, this way each piece of information is useless in isolation, and it is impossible to brute force the private key. The secrets can be recombined to recover the seed. You can also add redundancy, requiring say 2 of 3 of the secrets, or 3 of 5 (or any N of M). TailsOS comes with a pre-installed commandline tool called [ssss](http://point-at-infinity.org/ssss/) for this purpose. 
+
+[SLIP-0039](https://github.com/satoshilabs/slips/blob/master/slip-0039.md) will greatly increase the useage of sss.
+
 Please let me know ([@6102bitcoin](https://twitter.com/6102bitcoin)) if you can recommend any others.
 
 ### Should I split my mnemonic in two (long version)?
