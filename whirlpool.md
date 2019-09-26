@@ -99,8 +99,8 @@ Note that you need to [install JAVA](https://openjdk.java.net/).
 2. Extracted to folder
 3. Install java from command line `sudo apt install openjdk-8-jre-headless`
 4. Check it installed with `java -version` which should return something like `openjdk version "1.8.0_212"`
-5. Install rpm 'sudo apt-get install rpm'
-6. Install yarn 'sudo npm install -g yarn`
+5. Install npm `sudo apt-get install npm`
+6. Install yarn `sudo npm install -g yarn`
 7. Update `sudo apt-get update`
 8. Restart
 9. Open command line from the whirlpool-GUI folder
