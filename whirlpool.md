@@ -104,8 +104,8 @@ Note that you need to [install JAVA](https://openjdk.java.net/).
 7. Update `sudo apt-get update`
 8. Restart
 9. Open command line from the whirlpool-GUI folder
-10. `Yarn` (takes 2 mins)
-11. `Yarn package` 
+10. `yarn` (takes 2 mins)
+11. `yarn package` 
 12. Double click app image
 13. Try standalone GUI
 14. Enable TOR
