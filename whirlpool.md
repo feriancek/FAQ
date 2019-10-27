@@ -223,10 +223,10 @@ Once you pay your mix fee you should always wait for the mix to complete. In an 
 
 ### How do to the fees compare to wasabi?
 
-| Characteristic | Whirlpool                                | Wasabi  |
-| -------------- | ---------------                          | ------  |
-| Pool Size      | 0.05 & 0.01                              | 0.1     |
-| Fee            | 5% of pool size                          | 0.003% * Anonymity Set  |
+| Characteristic | Whirlpool                                | Wasabi                             |
+| -------------- | ---------------                          | ---------------------------------- |
+| Pool Size      | 0.05 & 0.01                              | 0.1                                |
+| Fee            | 5% of pool size                          | 0.003% * Anonymity Set * pool size |
 
 **More Fee Info**
 
