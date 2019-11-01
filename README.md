@@ -1,8 +1,8 @@
 # FAQ
 Frequently Asked Questions Compilation 
 
-1. [Wasabi FAQ](wasabi.md)
-2. [Seed FAQ](seed.md)
-3. [Hodl Privacy FAQ](hodl-privacy.md)
-4. [Whirlpool FAQ](whirlpool.md)
-5. [CoinJoin FAQ](https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_FAQ.md)
+1. [Seed FAQ](seed.md) - How to securely generate & store your seed.
+2. [Hodl Privacy FAQ](hodl-privacy.md) - How to securely Hodl your bitcoin.
+3. [CoinJoin FAQ](https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_FAQ.md) - CoinJoin Explained
+4. [Wasabi FAQ](wasabi.md) - What is Wasabi Wallet (CoinJoin Implementation)
+5. [Whirlpool FAQ](whirlpool.md)- What is Whirlpool (CoinJoin Implementation)
