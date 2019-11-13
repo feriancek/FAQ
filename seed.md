@@ -275,7 +275,7 @@ Take Alice & Bob;
 
 If an attacker (Charlie) goes to location A he can easily steal Alice's bitcoin with minimal effort or technical expertise - he simply has to identify that what he has found is a bitcoin seed and use a tool to try different derivation paths for the seed until he finds bitcoin to steal.
 
-For Charlie to steal bob's bitcoin he will have to identify that he has found half a bitcoin wallet and then brute force the remaining 12 words. It is possible that he would be able to brute force Bob's seed given enough time, but it is also possible that the attacked would not be technically competent enough to brute force the seed, or that he wouldn't even realise that he has 12 words of a 24 word seed (perhaps he would assume that it's an invalid 12 word seed).
+For Charlie to steal bob's bitcoin he will have to identify that he has found half a bitcoin wallet and then brute force the remaining 12 words. It is likely that this is computationally infeasible (more detailed analysis needed to verify this). It is also possible that the attacked would not be technically competent enough to brute force the seed, or that he wouldn't even realise that he has 12 words of a 24 word seed (perhaps he would assume that it's an invalid 12 word seed).
 
 It would be natural to conclude that Bob's bitcoin seed is more secure than Alice's.
 
