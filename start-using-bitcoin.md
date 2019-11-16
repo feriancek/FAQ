@@ -30,15 +30,15 @@ A practical way to onboard new bitcoiners.
 
 | I have a printer | I don't have a printer |
 | --- | --- |
-| Print this PDF & Track your progress by ticking off steps in the `Done` column. | Save this PDF to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `Start_Using_Bitcoin_Lesson2`) |
+| Print [this PDF](https://github.com/6102bitcoin/FAQ/raw/master/start-using-bitcoin_LESSON1.pdf) & Track your progress by ticking off steps in the `Done` column. | Save [this PDF](https://github.com/6102bitcoin/FAQ/raw/master/start-using-bitcoin_LESSON1.pdf) to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `Start_Using_Bitcoin_Lesson2`) |
 
 -----
 
 ## Step 1. Try it
 *Aim: Get a small amount of bitcoin and make a transaction*
 
-1. [Download](https://bitcoin-only.com/#wallets) a Bitcoin Wallet 
-2. [Get](https://bitcoin-only.com/#get-bitcoin) some bitcoin 
+1. [Download](https://bitcoin-only.com/#wallets) a Bitcoin Wallet
+2. [Get](https://bitcoin-only.com/#get-bitcoin) some bitcoin
 3. Withdraw the bitcoin to your wallet
 4. Send some bitcoin to yourself
 5. Look at the transaction
