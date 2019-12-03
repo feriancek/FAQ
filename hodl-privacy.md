@@ -19,7 +19,7 @@ This list is not comprehensive (please make a pull request for suggestions) and 
 
 ## Motivation
 I saw a thought provoking [post](https://twitter.com/ercwl/status/1136211928873938944) on Twitter;
-> "A lot of people now say that Bitcoin is completely transparent and even worse than the banking system for privacy. But answer me this: **if I go out on the street and sell my fiat cash for BTC which I store on a new wallet, which corporation can tell the government my net worth?**"
+> "A lot of people now say that Bitcoin is completely transparent and even worse than the banking system for privacy. But answer me this: **if I go out on the street and sell my fiat cash for BTC which I store on a new wallet, which corporation can know my net worth?**"
 
 The answer is that it depends very much on what tools/services you use. 
 - With **careful** use of the best bitcoin tools it's **not possible** for anyone to know how much bitcoin you have. 
